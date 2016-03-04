@@ -7,4 +7,4 @@ function.o:
 	g++ -std=c++11 -c Function.hpp -o function.o
 
 clean:
-	rm -f *.o *~ function smartpointer
+	rm -f *.o *~ function
